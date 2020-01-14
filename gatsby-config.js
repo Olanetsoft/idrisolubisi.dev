@@ -5,8 +5,8 @@ module.exports = {
     siteUrl: `https://novela.narative.co`,
     description: `This is my description that will be used in the meta tags and important for search results`,
     hero: {
-      heading: `Welcome to Idris Portfolio`,
-      maxWidth: 652,
+      heading: `I am Idris Olubisi a Software Engineer & Technical Writer`,
+      maxWidth: 952,
     },
     social: [
       {
